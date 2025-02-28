@@ -53,6 +53,10 @@ namespace lab1_kpz.classes
                 Console.WriteLine("\n\nзменшена ціна на товар:\n" + item.getName() +
                     "\nнова ціна за одиницю: " + item.getPrice().getMoney());
             }
+            else 
+            { 
+                Console.WriteLine("ціна менше за вказану суму для зменшення ціни"); 
+            }
         }
     }
 }
