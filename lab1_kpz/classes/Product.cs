@@ -26,12 +26,12 @@ namespace lab1_kpz.classes
             _Price -= money;
         }
 
-        public void decreaseUnits(int quantuty)
+        public void decreaseUnits(int quantity)
         {
-            _quantity -= quantuty;
+            _quantity -= quantity;
         }
 
-        public string getDescriprion() => _description;
+        public string getDescription() => _description;
         public string getUnit() => _unit;
         public int getQuantity() => _quantity;
         public string getName() => _Name;

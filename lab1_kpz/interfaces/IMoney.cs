@@ -8,8 +8,8 @@ namespace lab1_kpz.interfaces
 {
     public interface IMoney
     {
-        public string getMoney();
-        public void setWhole(int whole);
-        public void setFraction(int fraction);
+        string getMoney();
+        void setWhole(int whole);
+        void setFraction(int fraction);
     }
 }
