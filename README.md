@@ -49,4 +49,4 @@ public class Reporting : IReporting
 ### KISS (Keep It Simple, Stupid)
 - The structure of the code is simple and clear. Each class and [method](./lab1_kpz/classes/Product.cs#L24-L32) has a clear functionality and is not overloaded with unnecessary logic
 # UML
-![uml](uml.png)
+![uml](uml_diagram.png)
