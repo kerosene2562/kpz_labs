@@ -1,7 +1,7 @@
 # Lab2
 ## abstract factory
-!(abstract_factory)[./abstract_factory.png]
+!(abstract_factory)[abstract_factory.png]
 ## factory 
-!(factory)[./factory.png]
+!(factory)[factory.png]
 ## builder
-!(builder)[./builder.png]
+!(builder)[builder.png]
