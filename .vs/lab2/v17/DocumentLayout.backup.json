@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\programs\\kpz\\lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C9E2CA-76B1-4459-8CEC-5E51BCA8D3B1}|lab2\\lab2.csproj|d:\\programs\\kpz\\lab2\\lab2\\builder\\herobuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C9E2CA-76B1-4459-8CEC-5E51BCA8D3B1}|lab2\\lab2.csproj|solutionrelative:lab2\\builder\\herobuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C9E2CA-76B1-4459-8CEC-5E51BCA8D3B1}|lab2\\lab2.csproj|d:\\programs\\kpz\\lab2\\lab2\\builder\\ichatacterbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C9E2CA-76B1-4459-8CEC-5E51BCA8D3B1}|lab2\\lab2.csproj|solutionrelative:lab2\\builder\\ichatacterbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C9E2CA-76B1-4459-8CEC-5E51BCA8D3B1}|lab2\\lab2.csproj|d:\\programs\\kpz\\lab2\\lab2\\builder\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C9E2CA-76B1-4459-8CEC-5E51BCA8D3B1}|lab2\\lab2.csproj|solutionrelative:lab2\\builder\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C9E2CA-76B1-4459-8CEC-5E51BCA8D3B1}|lab2\\lab2.csproj|d:\\programs\\kpz\\lab2\\lab2\\builder\\enemybuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C9E2CA-76B1-4459-8CEC-5E51BCA8D3B1}|lab2\\lab2.csproj|solutionrelative:lab2\\builder\\enemybuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C9E2CA-76B1-4459-8CEC-5E51BCA8D3B1}|lab2\\lab2.csproj|d:\\programs\\kpz\\lab2\\lab2\\builder\\characterdirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C9E2CA-76B1-4459-8CEC-5E51BCA8D3B1}|lab2\\lab2.csproj|solutionrelative:lab2\\builder\\characterdirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C9E2CA-76B1-4459-8CEC-5E51BCA8D3B1}|lab2\\lab2.csproj|d:\\programs\\kpz\\lab2\\lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C9E2CA-76B1-4459-8CEC-5E51BCA8D3B1}|lab2\\lab2.csproj|solutionrelative:lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HeroBuilder.cs",
+              "DocumentMoniker": "D:\\programs\\kpz\\lab2\\lab2\\builder\\HeroBuilder.cs",
+              "RelativeDocumentMoniker": "lab2\\builder\\HeroBuilder.cs",
+              "ToolTip": "D:\\programs\\kpz\\lab2\\lab2\\builder\\HeroBuilder.cs",
+              "RelativeToolTip": "lab2\\builder\\HeroBuilder.cs",
+              "ViewState": "AgIAADYAAACA/v///z8pwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T20:43:28.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnemyBuilder.cs",
+              "DocumentMoniker": "D:\\programs\\kpz\\lab2\\lab2\\builder\\EnemyBuilder.cs",
+              "RelativeDocumentMoniker": "lab2\\builder\\EnemyBuilder.cs",
+              "ToolTip": "D:\\programs\\kpz\\lab2\\lab2\\builder\\EnemyBuilder.cs",
+              "RelativeToolTip": "lab2\\builder\\EnemyBuilder.cs",
+              "ViewState": "AgIAAC8AAAAA8DIzMzPDv0MAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T20:42:15.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Character.cs",
+              "DocumentMoniker": "D:\\programs\\kpz\\lab2\\lab2\\builder\\Character.cs",
+              "RelativeDocumentMoniker": "lab2\\builder\\Character.cs",
+              "ToolTip": "D:\\programs\\kpz\\lab2\\lab2\\builder\\Character.cs",
+              "RelativeToolTip": "lab2\\builder\\Character.cs",
+              "ViewState": "AgIAAA0AAABA/////582wB0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T20:32:02.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IChatacterBuilder.cs",
+              "DocumentMoniker": "D:\\programs\\kpz\\lab2\\lab2\\builder\\IChatacterBuilder.cs",
+              "RelativeDocumentMoniker": "lab2\\builder\\IChatacterBuilder.cs",
+              "ToolTip": "D:\\programs\\kpz\\lab2\\lab2\\builder\\IChatacterBuilder.cs",
+              "RelativeToolTip": "lab2\\builder\\IChatacterBuilder.cs",
+              "ViewState": "AgIAAAAAAACAZmZmZiYwwBAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T20:33:53.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CharacterDirector.cs",
+              "DocumentMoniker": "D:\\programs\\kpz\\lab2\\lab2\\builder\\CharacterDirector.cs",
+              "RelativeDocumentMoniker": "lab2\\builder\\CharacterDirector.cs",
+              "ToolTip": "D:\\programs\\kpz\\lab2\\lab2\\builder\\CharacterDirector.cs",
+              "RelativeToolTip": "lab2\\builder\\CharacterDirector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T20:33:29.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\programs\\kpz\\lab2\\lab2\\Program.cs",
+              "RelativeDocumentMoniker": "lab2\\Program.cs",
+              "ToolTip": "D:\\programs\\kpz\\lab2\\lab2\\Program.cs",
+              "RelativeToolTip": "lab2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T21:12:58.474Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\programs\\kpz\\lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C9E2CA-76B1-4459-8CEC-5E51BCA8D3B1}|lab2\\lab2.csproj|d:\\programs\\kpz\\lab2\\lab2\\abstract_fabric\\ipronefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C9E2CA-76B1-4459-8CEC-5E51BCA8D3B1}|lab2\\lab2.csproj|solutionrelative:lab2\\abstract_fabric\\ipronefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C9E2CA-76B1-4459-8CEC-5E51BCA8D3B1}|lab2\\lab2.csproj|d:\\programs\\kpz\\lab2\\lab2\\abstract_fabric\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C9E2CA-76B1-4459-8CEC-5E51BCA8D3B1}|lab2\\lab2.csproj|solutionrelative:lab2\\abstract_fabric\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C9E2CA-76B1-4459-8CEC-5E51BCA8D3B1}|lab2\\lab2.csproj|d:\\programs\\kpz\\lab2\\lab2\\abstract_fabric\\balaxyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C9E2CA-76B1-4459-8CEC-5E51BCA8D3B1}|lab2\\lab2.csproj|solutionrelative:lab2\\abstract_fabric\\balaxyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C9E2CA-76B1-4459-8CEC-5E51BCA8D3B1}|lab2\\lab2.csproj|d:\\programs\\kpz\\lab2\\lab2\\abstract_fabric\\idevicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C9E2CA-76B1-4459-8CEC-5E51BCA8D3B1}|lab2\\lab2.csproj|solutionrelative:lab2\\abstract_fabric\\idevicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C9E2CA-76B1-4459-8CEC-5E51BCA8D3B1}|lab2\\lab2.csproj|d:\\programs\\kpz\\lab2\\lab2\\abstract_fabric\\iprone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C9E2CA-76B1-4459-8CEC-5E51BCA8D3B1}|lab2\\lab2.csproj|solutionrelative:lab2\\abstract_fabric\\iprone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C9E2CA-76B1-4459-8CEC-5E51BCA8D3B1}|lab2\\lab2.csproj|d:\\programs\\kpz\\lab2\\lab2\\abstract_fabric\\ibrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C9E2CA-76B1-4459-8CEC-5E51BCA8D3B1}|lab2\\lab2.csproj|solutionrelative:lab2\\abstract_fabric\\ibrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C9E2CA-76B1-4459-8CEC-5E51BCA8D3B1}|lab2\\lab2.csproj|d:\\programs\\kpz\\lab2\\lab2\\abstract_fabric\\ebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C9E2CA-76B1-4459-8CEC-5E51BCA8D3B1}|lab2\\lab2.csproj|solutionrelative:lab2\\abstract_fabric\\ebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C9E2CA-76B1-4459-8CEC-5E51BCA8D3B1}|lab2\\lab2.csproj|d:\\programs\\kpz\\lab2\\lab2\\abstract_fabric\\smartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C9E2CA-76B1-4459-8CEC-5E51BCA8D3B1}|lab2\\lab2.csproj|solutionrelative:lab2\\abstract_fabric\\smartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C9E2CA-76B1-4459-8CEC-5E51BCA8D3B1}|lab2\\lab2.csproj|d:\\programs\\kpz\\lab2\\lab2\\abstract_fabric\\notebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C9E2CA-76B1-4459-8CEC-5E51BCA8D3B1}|lab2\\lab2.csproj|solutionrelative:lab2\\abstract_fabric\\notebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C9E2CA-76B1-4459-8CEC-5E51BCA8D3B1}|lab2\\lab2.csproj|d:\\programs\\kpz\\lab2\\lab2\\abstract_fabric\\kiaomifactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C9E2CA-76B1-4459-8CEC-5E51BCA8D3B1}|lab2\\lab2.csproj|solutionrelative:lab2\\abstract_fabric\\kiaomifactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C9E2CA-76B1-4459-8CEC-5E51BCA8D3B1}|lab2\\lab2.csproj|d:\\programs\\kpz\\lab2\\lab2\\abstract_fabric\\kiaomi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C9E2CA-76B1-4459-8CEC-5E51BCA8D3B1}|lab2\\lab2.csproj|solutionrelative:lab2\\abstract_fabric\\kiaomi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C9E2CA-76B1-4459-8CEC-5E51BCA8D3B1}|lab2\\lab2.csproj|d:\\programs\\kpz\\lab2\\lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C9E2CA-76B1-4459-8CEC-5E51BCA8D3B1}|lab2\\lab2.csproj|solutionrelative:lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C9E2CA-76B1-4459-8CEC-5E51BCA8D3B1}|lab2\\lab2.csproj|d:\\programs\\kpz\\lab2\\lab2\\abstract_fabric\\balaxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C9E2CA-76B1-4459-8CEC-5E51BCA8D3B1}|lab2\\lab2.csproj|solutionrelative:lab2\\abstract_fabric\\balaxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C9E2CA-76B1-4459-8CEC-5E51BCA8D3B1}|lab2\\lab2.csproj|d:\\programs\\kpz\\lab2\\lab2\\builder\\herobuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C9E2CA-76B1-4459-8CEC-5E51BCA8D3B1}|lab2\\lab2.csproj|solutionrelative:lab2\\builder\\herobuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C9E2CA-76B1-4459-8CEC-5E51BCA8D3B1}|lab2\\lab2.csproj|d:\\programs\\kpz\\lab2\\lab2\\builder\\ichatacterbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C9E2CA-76B1-4459-8CEC-5E51BCA8D3B1}|lab2\\lab2.csproj|solutionrelative:lab2\\builder\\ichatacterbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C9E2CA-76B1-4459-8CEC-5E51BCA8D3B1}|lab2\\lab2.csproj|d:\\programs\\kpz\\lab2\\lab2\\builder\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C9E2CA-76B1-4459-8CEC-5E51BCA8D3B1}|lab2\\lab2.csproj|solutionrelative:lab2\\builder\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C9E2CA-76B1-4459-8CEC-5E51BCA8D3B1}|lab2\\lab2.csproj|d:\\programs\\kpz\\lab2\\lab2\\builder\\enemybuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C9E2CA-76B1-4459-8CEC-5E51BCA8D3B1}|lab2\\lab2.csproj|solutionrelative:lab2\\builder\\enemybuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C9E2CA-76B1-4459-8CEC-5E51BCA8D3B1}|lab2\\lab2.csproj|d:\\programs\\kpz\\lab2\\lab2\\builder\\characterdirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C9E2CA-76B1-4459-8CEC-5E51BCA8D3B1}|lab2\\lab2.csproj|solutionrelative:lab2\\builder\\characterdirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBrand.cs",
+              "DocumentMoniker": "D:\\programs\\kpz\\lab2\\lab2\\abstract_fabric\\IBrand.cs",
+              "RelativeDocumentMoniker": "lab2\\abstract_fabric\\IBrand.cs",
+              "ToolTip": "D:\\programs\\kpz\\lab2\\lab2\\abstract_fabric\\IBrand.cs",
+              "RelativeToolTip": "lab2\\abstract_fabric\\IBrand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T21:41:12.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BalaxyFactory.cs",
+              "DocumentMoniker": "D:\\programs\\kpz\\lab2\\lab2\\abstract_fabric\\BalaxyFactory.cs",
+              "RelativeDocumentMoniker": "lab2\\abstract_fabric\\BalaxyFactory.cs",
+              "ToolTip": "D:\\programs\\kpz\\lab2\\lab2\\abstract_fabric\\BalaxyFactory.cs",
+              "RelativeToolTip": "lab2\\abstract_fabric\\BalaxyFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T21:34:26.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProne.cs",
+              "DocumentMoniker": "D:\\programs\\kpz\\lab2\\lab2\\abstract_fabric\\IProne.cs",
+              "RelativeDocumentMoniker": "lab2\\abstract_fabric\\IProne.cs",
+              "ToolTip": "D:\\programs\\kpz\\lab2\\lab2\\abstract_fabric\\IProne.cs",
+              "RelativeToolTip": "lab2\\abstract_fabric\\IProne.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T21:33:42.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IProneFactory.cs",
+              "DocumentMoniker": "D:\\programs\\kpz\\lab2\\lab2\\abstract_fabric\\IProneFactory.cs",
+              "RelativeDocumentMoniker": "lab2\\abstract_fabric\\IProneFactory.cs",
+              "ToolTip": "D:\\programs\\kpz\\lab2\\lab2\\abstract_fabric\\IProneFactory.cs",
+              "RelativeToolTip": "lab2\\abstract_fabric\\IProneFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T21:39:04.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDeviceFactory.cs",
+              "DocumentMoniker": "D:\\programs\\kpz\\lab2\\lab2\\abstract_fabric\\IDeviceFactory.cs",
+              "RelativeDocumentMoniker": "lab2\\abstract_fabric\\IDeviceFactory.cs",
+              "ToolTip": "D:\\programs\\kpz\\lab2\\lab2\\abstract_fabric\\IDeviceFactory.cs",
+              "RelativeToolTip": "lab2\\abstract_fabric\\IDeviceFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T21:37:17.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Laptop.cs",
+              "DocumentMoniker": "D:\\programs\\kpz\\lab2\\lab2\\abstract_fabric\\Laptop.cs",
+              "RelativeDocumentMoniker": "lab2\\abstract_fabric\\Laptop.cs",
+              "ToolTip": "D:\\programs\\kpz\\lab2\\lab2\\abstract_fabric\\Laptop.cs",
+              "RelativeToolTip": "lab2\\abstract_fabric\\Laptop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T21:31:44.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EBook.cs",
+              "DocumentMoniker": "D:\\programs\\kpz\\lab2\\lab2\\abstract_fabric\\EBook.cs",
+              "RelativeDocumentMoniker": "lab2\\abstract_fabric\\EBook.cs",
+              "ToolTip": "D:\\programs\\kpz\\lab2\\lab2\\abstract_fabric\\EBook.cs",
+              "RelativeToolTip": "lab2\\abstract_fabric\\EBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T21:33:18.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Smartphone.cs",
+              "DocumentMoniker": "D:\\programs\\kpz\\lab2\\lab2\\abstract_fabric\\Smartphone.cs",
+              "RelativeDocumentMoniker": "lab2\\abstract_fabric\\Smartphone.cs",
+              "ToolTip": "D:\\programs\\kpz\\lab2\\lab2\\abstract_fabric\\Smartphone.cs",
+              "RelativeToolTip": "lab2\\abstract_fabric\\Smartphone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T21:40:34.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Notebook.cs",
+              "DocumentMoniker": "D:\\programs\\kpz\\lab2\\lab2\\abstract_fabric\\Notebook.cs",
+              "RelativeDocumentMoniker": "lab2\\abstract_fabric\\Notebook.cs",
+              "ToolTip": "D:\\programs\\kpz\\lab2\\lab2\\abstract_fabric\\Notebook.cs",
+              "RelativeToolTip": "lab2\\abstract_fabric\\Notebook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T21:40:07.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KIaomiFactory.cs",
+              "DocumentMoniker": "D:\\programs\\kpz\\lab2\\lab2\\abstract_fabric\\KIaomiFactory.cs",
+              "RelativeDocumentMoniker": "lab2\\abstract_fabric\\KIaomiFactory.cs",
+              "ToolTip": "D:\\programs\\kpz\\lab2\\lab2\\abstract_fabric\\KIaomiFactory.cs",
+              "RelativeToolTip": "lab2\\abstract_fabric\\KIaomiFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T21:39:34.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Kiaomi.cs",
+              "DocumentMoniker": "D:\\programs\\kpz\\lab2\\lab2\\abstract_fabric\\Kiaomi.cs",
+              "RelativeDocumentMoniker": "lab2\\abstract_fabric\\Kiaomi.cs",
+              "ToolTip": "D:\\programs\\kpz\\lab2\\lab2\\abstract_fabric\\Kiaomi.cs",
+              "RelativeToolTip": "lab2\\abstract_fabric\\Kiaomi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T21:34:00.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Balaxy.cs",
+              "DocumentMoniker": "D:\\programs\\kpz\\lab2\\lab2\\abstract_fabric\\Balaxy.cs",
+              "RelativeDocumentMoniker": "lab2\\abstract_fabric\\Balaxy.cs",
+              "ToolTip": "D:\\programs\\kpz\\lab2\\lab2\\abstract_fabric\\Balaxy.cs",
+              "RelativeToolTip": "lab2\\abstract_fabric\\Balaxy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T21:18:39.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HeroBuilder.cs",
+              "DocumentMoniker": "D:\\programs\\kpz\\lab2\\lab2\\builder\\HeroBuilder.cs",
+              "RelativeDocumentMoniker": "lab2\\builder\\HeroBuilder.cs",
+              "ToolTip": "D:\\programs\\kpz\\lab2\\lab2\\builder\\HeroBuilder.cs",
+              "RelativeToolTip": "lab2\\builder\\HeroBuilder.cs",
+              "ViewState": "AgIAADYAAACA/v///z8pwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T20:43:28.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Character.cs",
+              "DocumentMoniker": "D:\\programs\\kpz\\lab2\\lab2\\builder\\Character.cs",
+              "RelativeDocumentMoniker": "lab2\\builder\\Character.cs",
+              "ToolTip": "D:\\programs\\kpz\\lab2\\lab2\\builder\\Character.cs",
+              "RelativeToolTip": "lab2\\builder\\Character.cs",
+              "ViewState": "AgIAAA0AAABA/////582wB0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T20:32:02.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IChatacterBuilder.cs",
+              "DocumentMoniker": "D:\\programs\\kpz\\lab2\\lab2\\builder\\IChatacterBuilder.cs",
+              "RelativeDocumentMoniker": "lab2\\builder\\IChatacterBuilder.cs",
+              "ToolTip": "D:\\programs\\kpz\\lab2\\lab2\\builder\\IChatacterBuilder.cs",
+              "RelativeToolTip": "lab2\\builder\\IChatacterBuilder.cs",
+              "ViewState": "AgIAAAAAAACAZmZmZiYwwBAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T20:33:53.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\programs\\kpz\\lab2\\lab2\\Program.cs",
+              "RelativeDocumentMoniker": "lab2\\Program.cs",
+              "ToolTip": "D:\\programs\\kpz\\lab2\\lab2\\Program.cs",
+              "RelativeToolTip": "lab2\\Program.cs",
+              "ViewState": "AgIAABMAAABAZ2ZmZmYkwEwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T21:12:58.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EnemyBuilder.cs",
+              "DocumentMoniker": "D:\\programs\\kpz\\lab2\\lab2\\builder\\EnemyBuilder.cs",
+              "RelativeDocumentMoniker": "lab2\\builder\\EnemyBuilder.cs",
+              "ToolTip": "D:\\programs\\kpz\\lab2\\lab2\\builder\\EnemyBuilder.cs",
+              "RelativeToolTip": "lab2\\builder\\EnemyBuilder.cs",
+              "ViewState": "AgIAAC8AAAAA8DIzMzPDv0MAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T20:42:15.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CharacterDirector.cs",
+              "DocumentMoniker": "D:\\programs\\kpz\\lab2\\lab2\\builder\\CharacterDirector.cs",
+              "RelativeDocumentMoniker": "lab2\\builder\\CharacterDirector.cs",
+              "ToolTip": "D:\\programs\\kpz\\lab2\\lab2\\builder\\CharacterDirector.cs",
+              "RelativeToolTip": "lab2\\builder\\CharacterDirector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T20:33:29.183Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
