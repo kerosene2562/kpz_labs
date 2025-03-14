@@ -1,7 +1,7 @@
 # Lab2
 ## abstract factory
-![abstract_factory](abstract_factory.jpg)
+![abstract_factory](abstract_fabric.jpg)
 ## factory 
-![factory](factory.jpg)
+![factory](fabric.jpg)
 ## builder
 ![builder](builder.jpg)
