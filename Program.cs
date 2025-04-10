@@ -84,7 +84,6 @@ for (int i = 1; i <= 3; i++)
     ul.AddChild(li);
 }
 
-Console.WriteLine("=== LightHTML Output ===");
 Console.WriteLine(ul.OuterHTML());
 
 ////////////////////////Flyweight

@@ -12,3 +12,4 @@ D:\programs\kpz\lab3\lab3\lab3\obj\Debug\net8.0\refint\lab3.dll
 D:\programs\kpz\lab3\lab3\lab3\obj\Debug\net8.0\lab3.pdb
 D:\programs\kpz\lab3\lab3\lab3\obj\Debug\net8.0\lab3.genruntimeconfig.cache
 D:\programs\kpz\lab3\lab3\lab3\obj\Debug\net8.0\ref\lab3.dll
+D:\programs\kpz\lab3\lab3\lab3\obj\Debug\net8.0\lab3.sourcelink.json

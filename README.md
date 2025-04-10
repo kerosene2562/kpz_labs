@@ -5,7 +5,6 @@
 **Purpose:** Allows combining a logger with file writing functionality.
 
 ### Structure:
-- `ILogger.cs` — logger interface: `Log()`, `Error()`, `Warn()`
 - `Logger.cs` — logger that outputs messages to the console
 - `FileWriter.cs` — writes messages to a file
 - `FileWriterAdapter.cs` — adapter to use `FileWriter` as a logger
@@ -29,7 +28,7 @@
 **Purpose:** Separates abstraction (shapes) from implementation (rendering).
 
 ### Structure:
-- Render interface: `Renderer.cs`
+- Render interface: `IRenderer.cs`
 - Implementations: `RasterRenderer.cs`, `VectorRenderer.cs`
 - Abstraction: `Shape.cs`
 - Shapes: `Circle.cs`, `Square.cs`, `Triangle.cs`
@@ -47,14 +46,14 @@
 
 ---
 
-## Pattern: Composite (LightHTML)
+## Pattern: Composite
 
 **Purpose:** Builds an HTML tree from nodes.
 
 ### Structure:
-- `HTMLElement.cs` — base node
-- `LightHTML.cs` — text node
-- `MemoryMonitor.cs`, `MemorySizeConvertor.cs` — memory analysis utilities
+- `LightNode.cs` — An abstract class that defines the basic behavior for nodes in LightHTML
+- `LightTextNode.cs` — Represents a text node that contains only text and cannot have child elements
+- `LightElementNode.cs` — Can contain other nodes, and also has attributes that define its behavior
 
 ---
 
