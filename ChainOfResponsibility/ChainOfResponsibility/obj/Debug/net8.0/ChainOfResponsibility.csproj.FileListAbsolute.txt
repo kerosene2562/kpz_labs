@@ -1,0 +1,14 @@
+D:\KPZ_duplicate\pr4_Sasha\ChainOfResponsibility\ChainOfResponsibility\bin\Debug\net8.0\ChainOfResponsibility.exe
+D:\KPZ_duplicate\pr4_Sasha\ChainOfResponsibility\ChainOfResponsibility\bin\Debug\net8.0\ChainOfResponsibility.deps.json
+D:\KPZ_duplicate\pr4_Sasha\ChainOfResponsibility\ChainOfResponsibility\bin\Debug\net8.0\ChainOfResponsibility.runtimeconfig.json
+D:\KPZ_duplicate\pr4_Sasha\ChainOfResponsibility\ChainOfResponsibility\bin\Debug\net8.0\ChainOfResponsibility.dll
+D:\KPZ_duplicate\pr4_Sasha\ChainOfResponsibility\ChainOfResponsibility\bin\Debug\net8.0\ChainOfResponsibility.pdb
+D:\KPZ_duplicate\pr4_Sasha\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\net8.0\ChainOfResponsibility.GeneratedMSBuildEditorConfig.editorconfig
+D:\KPZ_duplicate\pr4_Sasha\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\net8.0\ChainOfResponsibility.AssemblyInfoInputs.cache
+D:\KPZ_duplicate\pr4_Sasha\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\net8.0\ChainOfResponsibility.AssemblyInfo.cs
+D:\KPZ_duplicate\pr4_Sasha\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\net8.0\ChainOfResponsibility.csproj.CoreCompileInputs.cache
+D:\KPZ_duplicate\pr4_Sasha\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\net8.0\ChainOfResponsibility.dll
+D:\KPZ_duplicate\pr4_Sasha\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\net8.0\refint\ChainOfResponsibility.dll
+D:\KPZ_duplicate\pr4_Sasha\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\net8.0\ChainOfResponsibility.pdb
+D:\KPZ_duplicate\pr4_Sasha\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\net8.0\ChainOfResponsibility.genruntimeconfig.cache
+D:\KPZ_duplicate\pr4_Sasha\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\net8.0\ref\ChainOfResponsibility.dll
