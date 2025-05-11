@@ -18,5 +18,10 @@ namespace lab3.Composite
         public override string OuterHTML() => text;
 
         public override string InnerHTML() => text;
+        public override void Accept(IVisitor visitor)
+        {
+            visitor.Visit(this);
+        }
+
     }
 }
