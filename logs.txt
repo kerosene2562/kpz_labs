@@ -91,3 +91,6 @@ err (file).
 info (file).
 warn (file).
 err (file).
+info (file).
+warn (file).
+err (file).

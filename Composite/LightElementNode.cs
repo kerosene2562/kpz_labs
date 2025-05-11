@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using lab3.classes;
 
 namespace lab3.Composite
 {
@@ -10,6 +11,7 @@ namespace lab3.Composite
     public enum ClosingType { SelfClosing, Normal }
     public class LightElementNode : LightNode
     {
+        public ILightNodeState State { get; set; } = new EnabledState();
         public string TagName { get; }
         public DisplayType Display { get; }
         public ClosingType Closing { get; }
@@ -23,6 +25,16 @@ namespace lab3.Composite
             Closing = closing;
             CssClasses = new List<string>();
             Children = new List<LightNode>();
+        }
+
+        public void HandleEvent(string eventType)
+        {
+            State.HandleEvent(this, eventType);
+        }
+
+        public string RenderWithState(int indentLevel = 0)
+        {
+            return State.Render(this, indentLevel);
         }
 
         public void AddClass(string className)

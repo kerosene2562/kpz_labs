@@ -125,6 +125,17 @@ commandManager.UndoLast();
 Console.WriteLine("Після Undo:");
 Console.WriteLine(ul2.OuterHTML());
 
+////////////////////////State
+var div = new LightElementNode("div", DisplayType.Block, ClosingType.Normal);
+div.AddChild(new LightTextNode("Контент"));
+div.State = new EnabledState();
+Console.WriteLine(div.RenderWithState());
+
+div.State = new DisabledState();
+Console.WriteLine(div.RenderWithState());
+
+div.HandleEvent("click");
+
 
 ////////////////////////Flyweight
 
