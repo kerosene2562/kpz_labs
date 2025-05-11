@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace lab3.Composite
 {
-    class LightTextNode : LightNode
+    public class LightTextNode : LightNode
     {
         private string text;
 
