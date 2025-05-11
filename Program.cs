@@ -148,6 +148,17 @@ foreach (var err in validator.Errors)
     Console.WriteLine("Validation error: " + err);
 }
 
+////////////////////////Template
+var div1 = new CustomElementNode("div");
+div1.AddClass("container");
+
+div1.AddChild(new LightTextNode("Текст елемента"));
+div1.Insert();
+
+Console.WriteLine(div1.OuterHTML());
+
+div1.Remove(); 
+
 ////////////////////////Flyweight
 
 Console.WriteLine("");
