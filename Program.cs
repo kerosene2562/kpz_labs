@@ -4,6 +4,7 @@ using lab3.Composite;
 using lab3.Decorator;
 using lab3.Flyweight;
 using lab3.Flyweight.FlyWord;
+using lab3.Iterators;
 using lab3.Proxy;
 using System.IO;
 
@@ -85,6 +86,25 @@ for (int i = 1; i <= 3; i++)
 }
 
 Console.WriteLine(ul.OuterHTML());
+
+////////////////////////ITERATORS
+
+Console.WriteLine("\nDFS Traversal (в глубину):");
+var dfs = new DFSIterator(ul);
+while (dfs.MoveNext())
+{
+    var node = dfs.Current();
+    Console.WriteLine($"- {node.OuterHTML()}");
+}
+
+Console.WriteLine("\nBFS Traversal (в ширину):");
+var bfs = new BFSIterator(ul);
+while (bfs.MoveNext())
+{
+    var node = bfs.Current();
+    Console.WriteLine($"- {node.OuterHTML()}");
+}
+
 
 ////////////////////////Flyweight
 
