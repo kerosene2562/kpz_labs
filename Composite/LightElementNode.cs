@@ -27,6 +27,15 @@ namespace lab3.Composite
             Children = new List<LightNode>();
         }
 
+        public override void Accept(IVisitor visitor)
+        {
+            visitor.Visit(this);
+            foreach (var child in Children)
+            {
+                child.Accept(visitor); 
+            }
+        }
+
         public void HandleEvent(string eventType)
         {
             State.HandleEvent(this, eventType);

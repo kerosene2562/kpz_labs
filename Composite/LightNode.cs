@@ -10,5 +10,6 @@ namespace lab3.Composite
     {
         public abstract string OuterHTML();
         public abstract string InnerHTML();
+        public abstract void Accept(IVisitor visitor);
     }
 }

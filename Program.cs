@@ -136,6 +136,17 @@ Console.WriteLine(div.RenderWithState());
 
 div.HandleEvent("click");
 
+////////////////////////Visitor
+var counter = new NodeCounterVisitor();
+ul.Accept(counter);
+Console.WriteLine($"Elements: {counter.ElementCount}, Texts: {counter.TextCount}");
+
+var validator = new ValidationVisitor();
+ul.Accept(validator);
+foreach (var err in validator.Errors)
+{
+    Console.WriteLine("Validation error: " + err);
+}
 
 ////////////////////////Flyweight
 
