@@ -8,7 +8,7 @@ namespace lab3.Composite
 {
     public enum DisplayType { Block, Inline }
     public enum ClosingType { SelfClosing, Normal }
-    class LightElementNode : LightNode
+    public class LightElementNode : LightNode
     {
         public string TagName { get; }
         public DisplayType Display { get; }

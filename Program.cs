@@ -1,5 +1,6 @@
 ﻿using lab3.Adapter;
 using lab3.Bridge;
+using lab3.classes;
 using lab3.Composite;
 using lab3.Decorator;
 using lab3.Flyweight;
@@ -104,6 +105,25 @@ while (bfs.MoveNext())
     var node = bfs.Current();
     Console.WriteLine($"- {node.OuterHTML()}");
 }
+
+////////////////////////Command
+
+var commandManager = new CommandManager();
+
+var ul2 = new LightElementNode("ul", DisplayType.Block, ClosingType.Normal);
+var li2 = new LightElementNode("li", DisplayType.Block, ClosingType.Normal);
+li2.AddChild(new LightTextNode("Новий елемент"));
+
+var addCmd = new AddChildCommand(ul2, li2);
+commandManager.ExecuteCommand(addCmd);
+
+Console.WriteLine("Після додавання:");
+Console.WriteLine(ul2.OuterHTML());
+
+commandManager.UndoLast();
+
+Console.WriteLine("Після Undo:");
+Console.WriteLine(ul2.OuterHTML());
 
 
 ////////////////////////Flyweight
