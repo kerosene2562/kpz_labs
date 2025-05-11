@@ -14,6 +14,15 @@ namespace lab3.Composite
         {
             this.text = text;
         }
+        public override void Insert()
+        {
+            Console.WriteLine("Text node inserted: " + text);
+        }
+
+        public override void Remove()
+        {
+            Console.WriteLine("Text node removed: " + text);
+        }
 
         public override string OuterHTML() => text;
 

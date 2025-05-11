@@ -25,6 +25,31 @@ namespace lab3.Composite
             Closing = closing;
             CssClasses = new List<string>();
             Children = new List<LightNode>();
+            OnCreated();
+        }
+        protected virtual void OnCreated() { }
+        protected virtual void OnInserted() { }
+        protected virtual void OnRemoved() { }
+        protected virtual void OnStylesApplied() { }
+        protected virtual void OnClassListApplied() { }
+        protected virtual void OnTextRendered() { }
+
+        public override void Insert()
+        {
+            OnInserted(); 
+            foreach (var child in Children)
+            {
+                child.Insert();
+            }
+        }
+
+        public override void Remove()
+        {
+            OnRemoved(); 
+            foreach (var child in Children)
+            {
+                child.Remove(); 
+            }
         }
 
         public override void Accept(IVisitor visitor)
@@ -49,12 +74,14 @@ namespace lab3.Composite
         public void AddClass(string className)
         {
             CssClasses.Add(className);
+            OnClassListApplied(); 
         }
 
         public void AddChild(LightNode child)
         {
             Children.Add(child);
         }
+
 
         public override string OuterHTML()
         {
@@ -66,16 +93,9 @@ namespace lab3.Composite
                 html.Append(" class=\"" + string.Join(" ", CssClasses) + "\"");
             }
 
-            if (Closing == ClosingType.SelfClosing)
-            {
-                html.Append(" />");
-                return html.ToString();
-            }
-
             html.Append(">");
             html.Append(InnerHTML());
             html.Append($"</{TagName}>");
-
             return html.ToString();
         }
 
